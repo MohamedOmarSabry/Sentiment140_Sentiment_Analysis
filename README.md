@@ -4,12 +4,12 @@
 
 ## Description
 
-One python script for cleaning and processing the data as well as displaying the data is simpler ways that make data analysis easier; The other is for running multiple machine learning models on the TFIDF and CountVectorizor data such as Logistic Regression, Linear Regression, Perceptrons, multilayer perceptron classifier, XGBClassifier, XGBRFClassifier, RandomForests, Decision Trees, Bernoulli and Multinomial Naive Bayes, and KNN. Most of these are from the ScikitLearn Library but there are a couple from the TesnorFlow and XGBoost libraries.
+One python script is for cleaning and processing the data as well as displaying the data in simpler ways that make data analysis easier; The other is for running multiple machine learning models on the TFIDF and CountVectorizor data such as Logistic Regression, Linear Regression, Perceptrons, multilayer perceptron classifier, XGBClassifier, XGBRFClassifier, RandomForests, Decision Trees, Bernoulli and Multinomial Naive Bayes, and KNN. Most of these are from the ScikitLearn Library but there are a couple from the TesnorFlow and XGBoost libraries.
 
 ## Features
 
 - Simple code for processing the text using TDIDF and CountVectorizor.
-- Has multiple graph types for pre and post cleaning data anaylsis.
+- Has multiple graph types for pre and post-cleaning data anaylsis.
 - Added an extra non-text feature to the processed dataset.
 - Code for running mutliple supervised machine learning models.
 
