@@ -1,17 +1,17 @@
 # Machine Learning Project: Twitter Sentiment Analysis
 
-> Performed data analysis and cleaning on the Sentiment140 dataset. Proceeded to then train a bunch of different supervised machine learning models on the cleaned dataset. 
+> Performed data analysis and cleaning on the Sentiment140 dataset. Proceeded to then train a bunch of different supervised machine-learning models on the cleaned dataset. 
 
 ## Description
 
-One python script is for cleaning and processing the data as well as displaying the data in simpler ways that make data analysis easier; The other is for running multiple machine learning models on the TFIDF and CountVectorizor data such as Logistic Regression, Linear Regression, Perceptrons, multilayer perceptron classifier, XGBClassifier, XGBRFClassifier, RandomForests, Decision Trees, Bernoulli and Multinomial Naive Bayes, and KNN. Most of these are from the ScikitLearn Library but there are a couple from the TesnorFlow and XGBoost libraries.
+One Python script is for cleaning and processing the data as well as displaying the data in simpler ways that make data analysis easier; The other is for running multiple machine learning models on the TFIDF and CountVectorizor data such as Logistic Regression, Linear Regression, Perceptrons, multilayer perceptron classifier, XGBClassifier, XGBRFClassifier, RandomForests, Decision Trees, Bernoulli and Multinomial Naive Bayes, LinearSVC, and KNN. Most of these are from the ScikitLearn Library but a couple are from the TensorFlow and XGBoost libraries.
 
 ## Features
 
 - Simple code for processing the text using TDIDF and CountVectorizor.
-- Has multiple graph types for pre and post-cleaning data anaylsis.
-- Added an extra non-text feature to the processed dataset.
-- Code for running mutliple supervised machine learning models.
+- Has multiple graph types for pre and post-cleaning data analysis.
+- An extra non-text feature was added to the processed dataset.
+- Code for running multiple supervised machine learning models.
 
 ## Getting Started
 
